@@ -4,7 +4,7 @@ applications:
   memory: 768M
   instances: 1
   random-route: demo-time
-  path: demo-time/demo-time/target/demo-time-0.0.1-SNAPSHOT.jar
+  path: demo-time/target/demo-time-0.0.1-SNAPSHOT.jar
   buildpack: java_buildpack
   services: []
   env:
